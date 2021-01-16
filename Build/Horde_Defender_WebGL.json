@@ -4,7 +4,7 @@
 "productVersion": "Beta",
 "dataUrl": "Horde Defender WebGL.data.unityweb",
 "wasmCodeUrl": "Horde Defender WebGL.wasm",
-"wasmFrameworkUrl": "Horde Defender WebGL.wasm.framework.unityweb",
+"wasmFrameworkUrl": "Horde Defender WebGL.wasm.code.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
